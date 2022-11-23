@@ -1,2 +1,2 @@
 # Study
-This repository have my stuy apps
+This repository have my study apps
